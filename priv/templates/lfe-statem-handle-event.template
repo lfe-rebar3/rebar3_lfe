@@ -3,4 +3,4 @@
     {name, "my-lfe-statem", "Name of the LFE gen_statem"}
 ]}.
 
-{template, "lfe-statem-handle-event.lfe.tpl", "{{name}}.lfe"}.
+{template, "statem-handle-event.lfe.tpl", "{{name}}.lfe"}.
